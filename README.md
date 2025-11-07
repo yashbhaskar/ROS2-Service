@@ -32,6 +32,11 @@ source /opt/ros/humble/setup.bash
 git clone https://github.com/yashbhaskar/ROS2-Action.git
 ```
 
+### Change Directory
+```bash
+cd ros_ws
+```
+
 ### Build the Package
 ```bash
 colcon build --packages-select simple_service_pkg custom_service_pkg 
