@@ -29,7 +29,7 @@ source /opt/ros/humble/setup.bash
 
 ### Clone Repository
 ```bash
-git clone https://github.com/yashbhaskar/ROS2-Action.git
+git clone https://github.com/yashbhaskar/ROS2-Service.git
 ```
 
 ### Change Directory
